@@ -1,0 +1,11 @@
+inspection_id,order_id,product_id,defects_found,inspection_result,defect_type
+QI001,PO001,P001,12,Pass,Surface Defect
+QI002,PO002,P002,8,Pass,Dimension Error
+QI003,PO003,P003,25,Fail,Assembly Issue
+QI004,PO004,P004,10,Pass,Packaging Defect
+QI005,PO005,P002,15,Pass,Surface Defect
+QI006,PO006,P005,30,Fail,Dimension Error
+QI007,PO007,P001,18,Pass,Assembly Issue
+QI008,PO008,P003,22,Fail,Surface Defect
+QI009,PO009,P004,14,Pass,Packaging Defect
+QI010,PO010,P005,9,Pass,None
