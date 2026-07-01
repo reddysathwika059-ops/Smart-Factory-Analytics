@@ -68,5 +68,10 @@ The Power BI dashboard will include:
 - Track production efficiency trends
 - Support data-driven manufacturing decisions
 
+
+  ## Dashboard Screenshot
+
+![Smart Factory Dashboard](smart_factory_dashboard.png)
+
 ## Project Outcome
 This project demonstrates how SQL, Power BI, and analytics can be used to improve manufacturing operations and support business decision-making.
