@@ -1,0 +1,6 @@
+product_id,product_name,category,standard_cycle_time_minutes
+P001,Gear Assembly,Mechanical,1.2
+P002,Motor Housing,Electrical,1.5
+P003,Valve Unit,Mechanical,1.0
+P004,Control Panel,Electrical,2.0
+P005,Sensor Module,Electronics,1.8
