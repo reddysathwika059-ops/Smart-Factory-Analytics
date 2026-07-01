@@ -1,0 +1,11 @@
+event_id,date,machine_id,shift,downtime_reason,downtime_minutes
+D001,2026-06-01,M001,Morning,Machine Breakdown,45
+D002,2026-06-01,M002,Evening,Setup Change,30
+D003,2026-06-02,M001,Night,Material Shortage,60
+D004,2026-06-02,M003,Morning,Maintenance,40
+D005,2026-06-03,M004,Evening,Power Failure,35
+D006,2026-06-03,M002,Night,Machine Breakdown,70
+D007,2026-06-04,M005,Morning,Setup Change,25
+D008,2026-06-04,M003,Evening,Operator Unavailable,20
+D009,2026-06-05,M001,Night,Machine Breakdown,55
+D010,2026-06-05,M004,Morning,Maintenance,30
