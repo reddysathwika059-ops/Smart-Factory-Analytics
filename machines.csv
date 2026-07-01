@@ -1,0 +1,6 @@
+machine_id,machine_name,line,machine_type,installation_year
+M001,CNC Machine 1,Line A,CNC,2020
+M002,Assembly Robot 1,Line B,Robot,2021
+M003,Packaging Unit 1,Line C,Packaging,2019
+M004,CNC Machine 2,Line A,CNC,2022
+M005,Inspection Station 1,Line D,Quality Check,2020
